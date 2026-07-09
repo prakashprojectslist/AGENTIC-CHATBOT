@@ -5,3 +5,4 @@ langchain-huggingface
 langchain-core
 langchain-community
 python-dotenv
+streamlit
