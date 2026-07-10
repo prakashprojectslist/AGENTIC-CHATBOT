@@ -8,7 +8,6 @@ from typing import TypedDict,Annotated
 from langgraph.checkpoint.sqlite import SqliteSaver
 import sqlite3
 
-
 load_dotenv()
 
 llm = ChatGroq(model="llama-3.3-70b-versatile",temperature=0.7)
