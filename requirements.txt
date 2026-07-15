@@ -7,3 +7,5 @@ langchain-community
 python-dotenv
 streamlit
 sqlite
+langchain-tavily==0.2.18
+tavily-python==0.7.26
